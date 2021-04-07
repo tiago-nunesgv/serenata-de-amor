@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ansible = "==2.7.5"
+ansible = "==2.10.0"
 dopy = "==0.3.7"
 
 [requires]
